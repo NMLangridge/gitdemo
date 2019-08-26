@@ -1,5 +1,9 @@
-Digimon, digital monsters.
+repository (repo) - git init
+stage - git add 'file'/--all
+committing - git commit -m "here is a message"
+reverting
+merging
 
-git add 'file'/--all
-git commit -m "here is a message"
 git push
+
+history - git log
