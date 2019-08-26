@@ -1,5 +1,5 @@
 repository (repo) - git init
-stage - git add 'file'/--all
+staged - git add 'file'/--all
 committing - git commit -m "here is a message"
 reverting
 merging
