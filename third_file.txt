@@ -1,1 +1,5 @@
 Digimon, digital monsters.
+
+git add 'file'/--all
+git commit -m "here is a message"
+git push
