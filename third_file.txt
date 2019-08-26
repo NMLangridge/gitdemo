@@ -7,3 +7,4 @@ merging
 git push
 
 history - git log
+current status - git status
